@@ -2,7 +2,7 @@
 
 
 I'm Rachel. I'm currently a senior and masters student at University of Pennsylvania studying Computer Science with a focus on Computer Graphcis.
-My interests range from computing, physics to 3D graphics and I'm pursuing a technical path in computer graphics and interactive technologies. 
+My interests range from computing, physics to 3D graphics and I'm pursuing a technical path in computer graphics and interactive technologies as a graphics engineer. 
 
 
 <!--
