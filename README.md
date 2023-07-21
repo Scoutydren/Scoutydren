@@ -7,7 +7,7 @@ I'm Beini.
 Interests: computing, physics, 3D graphics    
 Pursuing a technical path in computer graphics and interactive technologies.     
 
-Current work focus: modern graphics backend APIs and render pipeline     
+Current work focus: modern graphics backends and render pipeline     
 
 Eager to learn and always motivated for tackling new challenges.
 
