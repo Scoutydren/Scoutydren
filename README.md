@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 
-I'm Rachel. I'm currently a senior and masters student at University of Pennsylvania studying Computer Science with a focus on Computer Graphcis.
-My interests range from computing, physics to 3D graphics and I'm pursuing a technical path in computer graphics and interactive technologies. I'm familiar with most modern graphics backend APIs and have project experience with parallel programming, rendering and physically based simulation.
+I'm Beini. 
+2023.2 - ~ Graphics Engineer @ Unity
+2018.12 - 2022.12 Masters and undergrad student @ uofpenn SEAS
+Interests: computing, physics, 3D graphics
+Pursuing a technical path in computer graphics and interactive technologies. 
+Familiar with most modern graphics backend APIs and have project experience with parallel programming, rendering and physically based simulation. 
 
 Eager to learn and always motivated for tackling new challenges.
 
