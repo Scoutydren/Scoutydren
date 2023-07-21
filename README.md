@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 
-I'm Beini. 
-2023.2 - ~ Graphics Engineer @ Unity
-2018.12 - 2022.12 Masters and undergrad student @ uofpenn SEAS
-Interests: computing, physics, 3D graphics
-Pursuing a technical path in computer graphics and interactive technologies. 
-Familiar with most modern graphics backend APIs and have project experience with parallel programming, rendering and physically based simulation. 
+I'm Beini.   
+2023.2 - ~ Graphics Engineer @ Unity    
+2018.12 - 2022.12 Masters and undergrad student @ Penn Engineering    
+Interests: computing, physics, 3D graphics    
+Pursuing a technical path in computer graphics and interactive technologies.     
+
+Current work focus: modern graphics backend APIs and render pipeline     
 
 Eager to learn and always motivated for tackling new challenges.
 
